@@ -1,2 +1,4 @@
 <b>Age-Based Data Analytics</b>
-Ten kod wczytuje dane z pliku CSV, oblicza statystyki i wizualizuje rozkład wieku, filtruje i wypisuje osoby poniżej 30 roku życia oraz przeprowadza analizę grupową opartą na wieku.
+
+
+This code reads data from a CSV file, calculates statistics and visualizes the age distribution, filters and prints individuals under 30, and conducts a group analysis based on age.
